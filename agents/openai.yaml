@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python"
+  short_description: "General Python guidance for shared baseline"
+  default_prompt: "Use $python for general Python guidance, typing, module structure, exception handling, environment conventions, and baseline validation practices."
