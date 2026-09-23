@@ -16,7 +16,7 @@ Load only the references that matter for the task:
 4. Read `references/environments-and-validation.md` for dependencies, environments, and validation expectations.
 5. Read `references/sources.md` when Python technical decisions depend on external references, standard-library behavior, packaging rules, or language evolution details.
 6. If framework-specific behavior is central to the task, treat the relevant specialist skill or project guidance as the source of truth and use this skill only for residual baseline Python questions.
-7. If source selection, policy guidance, or general engineering tradeoffs are central to the task, pair this skill with `coding-standards`.
+7. If source selection, policy guidance, or general engineering tradeoffs are central to the task, pair this skill with `baseline:standards`.
 
 ## References
 
